@@ -9,7 +9,7 @@ in this notebbok You will know
 
 
 
-2- Use Case For business
+2- Use Case For E-Commerce business
 
 
 
